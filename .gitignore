@@ -1,9 +1,3 @@
-# Ignore sensitive information
-connection.php
-
-# Ignore uploaded files
-/uploads/
-
 # Ignore temporary files
 *.log
 *.tmp
