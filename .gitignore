@@ -1,0 +1,26 @@
+# Ignore sensitive information
+connection.php
+
+# Ignore uploaded files
+/uploads/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore editor and environment files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore backup files
+*.bak
+*.old
+
+# Ignore OS-specific files
+.DS_Store
